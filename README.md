@@ -1,1 +1,1 @@
-# DT8807-Advanced_Topics-in-Deep-Learning
+# DT8807-Advanced-Topics-in-Deep-Learning
